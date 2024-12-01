@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nishanshah54
+- 👋 Hi, it's me Nishan shah ,
 - 👀 I’m interested in WebDevelopment
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my website( www.nishanshah.com.np)
+- 📫 How to reach me ( www.nishanshah.com.np)
 - 😄 Pronouns: Nishan shah
 - ⚡ Fun fact: 
 
